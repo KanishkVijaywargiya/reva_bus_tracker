@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "575561430914",
+    "firebase_url": "https://reva-34468.firebaseio.com",
+    "project_id": "reva-34468",
+    "storage_bucket": "reva-34468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575561430914:android:c16b0c819e28e446f3c19b",
+        "android_client_info": {
+          "package_name": "com.REVABusTracker.student_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575561430914-q94s1s3ibtjndrenhcqv9trhe3vhtol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxlyaWS809vMZoO1fbBhTS63cBYh491c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575561430914-q94s1s3ibtjndrenhcqv9trhe3vhtol1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575561430914:android:c65ca7e80a949ff3f3c19b",
+        "android_client_info": {
+          "package_name": "com.reva_bus_tracker.location_pusher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575561430914-q94s1s3ibtjndrenhcqv9trhe3vhtol1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxlyaWS809vMZoO1fbBhTS63cBYh491c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575561430914-q94s1s3ibtjndrenhcqv9trhe3vhtol1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
